@@ -1,4 +1,4 @@
-* {
+ * {
     margin: 0;
     padding: 0
 }
@@ -296,7 +296,7 @@ body {
 
 .footer-svg {
     height: 700px !important;
-    border-top-left-radius: 900px !important;
+   
 }
 
 .footer-boxes {
@@ -346,8 +346,5 @@ hr {
 
 
 
-    .footer-svg {
-
-        border-top-left-radius: 0px !important;
-    }
+    
 }
